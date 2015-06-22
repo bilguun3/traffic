@@ -1,0 +1,6 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "1c803c2da14a5e7a9015a77ee91399cf"
+inputs: 
+- "/Users/umlab/Desktop/Swift/test3/test3/ViewController.swift"
+- "/Users/umlab/Desktop/Swift/test3/test3/AppDelegate.swift"
+- !dirty "/Users/umlab/Desktop/Swift/test3/test3/first.swift"
