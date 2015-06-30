@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>108CC3DD-7A3F-4689-8F84-E64AE73F90C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>test3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E85EBA00B2F8425C4107D9909E4A993D36EB9008</key>
+		<string>https://github.com/bilguun3/traffic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>test3/test3/test3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E85EBA00B2F8425C4107D9909E4A993D36EB9008</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bilguun3/traffic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E85EBA00B2F8425C4107D9909E4A993D36EB9008</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E85EBA00B2F8425C4107D9909E4A993D36EB9008</string>
+			<key>IDESourceControlWCCName</key>
+			<string>traffic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
